@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\bin\Debug\net8.0\13 - Atividade.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\bin\Debug\net8.0\13 - Atividade.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\bin\Debug\net8.0\13 - Atividade.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\bin\Debug\net8.0\13 - Atividade.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\bin\Debug\net8.0\13 - Atividade.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\refint\13 - Atividade.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\13 - Atividade.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\atividades2\13 - Atividade\13 - Atividade\obj\Debug\net8.0\ref\13 - Atividade.dll
